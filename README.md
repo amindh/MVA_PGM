@@ -6,3 +6,6 @@
 
 Provide a unifying introduction to probabilistic modelling through the framework of graphical models, together with their associated  learning and inference algorithms.
 
+## HOMEWORKS
+
+* HW1: Learning in discrete graphical models: LDA, Logistic regression, linear regression and QDA
